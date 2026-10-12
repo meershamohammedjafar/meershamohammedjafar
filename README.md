@@ -20,6 +20,8 @@ physical object.
   on an LED floor that senses every step. Moles pop up around you, the three
   walls run the countdown, the score and today's top 10, and the ceiling turns
   into a cartoon sky that bursts into fireworks for a new high score
+
+  <img src="assets/stomp-the-mole.gif" width="480" alt="Stomp the Mole, the room unfolded: a cartoon sky on the ceiling, today's top 10, the timer and score and the round stats on the three walls, and moles popping up on the floor below">
 - **AI assistants:** a 3D avatar kiosk that answers metro riders by voice, and
   JARVIS, my own voice layer for controlling my PC
 - **AR:** a smart mirror that lets you try clothes on without taking them off
