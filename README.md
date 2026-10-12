@@ -16,6 +16,10 @@ physical object.
   the glass picks the story, installed for du; and a table + wall showroom
   where a tag grows a tree of brands on the table, and flicking one sends
   its products to the wall as 3D models
+- **Interactive floor:** Stomp the Mole, an arcade game you play with your feet
+  on an LED floor that senses every step. Moles pop up around you, the three
+  walls run the countdown, the score and today's top 10, and the ceiling turns
+  into a cartoon sky that bursts into fireworks for a new high score
 - **AI assistants:** a 3D avatar kiosk that answers metro riders by voice, and
   JARVIS, my own voice layer for controlling my PC
 - **AR:** a smart mirror that lets you try clothes on without taking them off
