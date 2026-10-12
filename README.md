@@ -27,6 +27,11 @@ physical object.
 - **AR:** a smart mirror that lets you try clothes on without taking them off
   the rail (in spec)
 - **Real-time graphics:** raymarched worlds and audio-reactive shaders in GLSL
+- **Racing game:** [APEX](https://github.com/meershamohammedjafar/apex-f1), a
+  first-person Formula 1 game in Three.js with 120 Hz physics and a full race
+  weekend at Spa against ten AI teams, playable in the browser or as a desktop app
+
+  <img src="assets/apex-cockpit.gif" width="480" alt="APEX, the cockpit view flat out down the pit straight at Spa: 310 km/h in eighth gear with DRS open, and a personal-best lap banner landing on the HUD">
 
 **Tools:** Python, Unreal Engine, MediaPipe, WebGL/GLSL, Next.js, Flutter
 
